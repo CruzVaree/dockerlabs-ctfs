@@ -93,7 +93,7 @@ Si un atacante puede colocar un archivo llamado mensaje.py en un directorio que 
 
 <br>
 <h1>Creditos a vareCruzz</h1>
-<h1>SIGANME EN TODAS MIS REDES SOCIALES QUE ESTAN EN dockerlabs.es</h1>
+<h1>SIGANME EN TODAS MIS REDES SOCIALES</h1>
 
 
 
