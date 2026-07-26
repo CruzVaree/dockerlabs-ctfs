@@ -91,6 +91,9 @@ Si un atacante puede colocar un archivo llamado mensaje.py en un directorio que 
 <h3>FLAG: </h3>
 <img width="1166" height="858" alt="1" src="../SpiderRoot/images/22.png" />
 
+<br>
+<b>Creditos a vareCruzz</b>
+<b>SIGANME EN TODAS MIS REDES SOCIALES QUE ESTAN EN dockerlabs.es</b>
 
 
 
