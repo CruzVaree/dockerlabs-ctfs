@@ -55,7 +55,7 @@
 <h2>Nos ponemos en escucha por netcat y mandamos la peticion con curl</h2>
 <h3>nc -nlvp PUERTO</h3>
 
-<h2>Obtendremos una reverse shell con el usuario www-date la cual tiene el siguiente binario con permisos de sudo.</h2>
+<h2>Obtendremos una reverse shell con el usuario www-data la cual tiene el siguiente binario con permisos de sudo.</h2>
 <h3>/usr/bin/python3 /opt/spidy.py</h3>
 <img width="1166" height="858" alt="1" src="../SpiderRoot/images/18.png" />
 
