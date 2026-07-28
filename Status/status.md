@@ -27,9 +27,9 @@
 
 <h2>Existe una cabecera existente que restringe el acceso</h2>
 <li>Statusid: Si cambiamos/añadimos el valor de 0 a 1 tanto en el Request y Response podremos evadir ese acceso</li>
-<img width="956" height="776" src="../Status/images/Captura de pantalla 2026-07-27 183500.png"/>
-<p>AQUI AÑADIMOS EN EL REQUEST Statusid: 1</p>
 <img width="956" height="776" src="../Status/images/Captura de pantalla 2026-07-27 183510.png"/>
+<p>AQUI AÑADIMOS EN EL REQUEST Statusid: 1</p>
+<img width="956" height="776" src="../Status/images/Captura de pantalla 2026-07-27 183500.png"/>
 <br><br>
 
 
