@@ -11,7 +11,7 @@
 <br>
 
 <h2>Entramos a la web que corre en el laboratorio y nos muestra eso: </h2>
-<img width="956" height="776" src="Status/images/Captura de pantalla 2026-07-27 182736.png"/>
+<img width="956" height="776" src="../Status/images/Captura de pantalla 2026-07-27 182736.png"/>
 
 <h2>Realizamos un Fuzzing con Gobuster ya que no encontramos nada interesante en el index</h2>
 <img width="956" height="776" src="../Status/images/Captura de pantalla 2026-07-27 183055.png"/>
