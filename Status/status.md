@@ -66,14 +66,12 @@
 
 <h2>Tras analizar la estructura nos da una pista de directorios a las cuales podemos hacer una peticion</h2>
 <h2>Dentro de los directorios existe un archivo llamado file.php con el siguiente contenido: </h2>
-<h3>
- <h2> <?php 
-if($_SERVER['REQUEST_METHOD'] === 'GET'){
-    $file = $_GET['72e22dffd7fa10883a85aa3e0bbbd6d4'];
-    include($file);
-}
-?></h2>
-</h3>
+<h3> <?php </h3>
+<h3>if($_SERVER['REQUEST_METHOD'] === 'GET'){</h3>
+   <h3>$file = $_GET['72e22dffd7fa10883a85aa3e0bbbd6d4'];</h3>
+  <h3>include($file);</h3>
+<h3>}</h3>
+<h3>?></h3>
 
 <h2>Vemos que en archivo file.php existe lo siguiente: 72e22dffd7fa10883a85aa3e0bbbd6d4 </h2>
 <h2>Uniendo todo lo anterior con los directorios encontrados en el zip y el parametro encontrado en el file.php crearemos una URL de esta forma</h2>
