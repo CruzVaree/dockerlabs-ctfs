@@ -112,8 +112,32 @@ http://127.0.0.1/061400ca5d384de48f37a71ec23cc518/cc8e38c20e4e2f58291c0f8b2e3ace
 <h2>Nos levantamos un servidor con python para pasarnos la herramienta y el diccionario a utilizar para realizar un ataque de fuerza bruta y conseguir las credenciales</h2>
 <img width="956" height="776" src="../Status/images/Captura de pantalla 2026-07-27 200732.png"/>
 
-<h2>con wget desde la maquina victima obtenemos el script y el diccionario</h2>
+<h2>con wget desde la maquina victima en el directorio /tmp obtenemos el script y le daremos permisos de ejecución</h2>
 <img width="956" height="776" src="../Status/images/Captura de pantalla 2026-07-27 200756.png"/>
 
+<h2>Posteriormente pasaremos el rockyou.txt</h2>
+<img width="956" height="776" src="../Status/images/Captura de pantalla 2026-07-27 200816.png"/>
 
+<h2>Visualizando con cat /etc/passwd encontraremos los usuarios a las cuales haremos una auditoria de sus contraseñas</h2>
+<img width="956" height="776" src="../Status/images/Captura de pantalla 2026-07-27 200912.png"/>
+<h2>EJECUTAMOS LA HERRAMIENTA CONTRA EL USUARIO baluton</h2>
+<img width="956" height="776" src="../Status/images/Captura de pantalla 2026-07-27 201125.png"/>
+<h2>Credenciales obtenidas :)</h2>
+<img width="956" height="776" src="../Status/images/Captura de pantalla 2026-07-27 201853.png"/>
+
+<h2>Mediante sudo -l se muestra que el usuario baluton tiene permisos de ejecutar el binario /usr/bin/unzip</h2>
+<img width="956" height="776" src="../Status/images/Captura de pantalla 2026-07-27 201915.png"/>
+
+<h2>Al listar el directorio raiz (/) se encuentra un archivo zip interesante</h2>
+<h2>Aprovecharemos los permisos sudo del binario /usr/bin/unzip para descomprimirlo y ver el contenido</h2>
+<img width="956" height="776" src="../Status/images/Captura de pantalla 2026-07-27 203338.png"/>
+
+<h2>En el archivo zip se encuentras las credenciales de root</h2>
+<h2>Ahora simplemente cambiaremos de usuario [su root]</h2>
+<img width="956" height="776" src="../Status/images/Captura de pantalla 2026-07-27 203359.png"/>
+
+<h2>ROOT OBTENIDO</h2>
+
+<h3>CREDITOS A vareCruzz</h3>
+<h3>:)</h3>
 
