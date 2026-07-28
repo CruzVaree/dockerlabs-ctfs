@@ -17,5 +17,5 @@
 <img width="956" height="776" src="Status/images/Captura de pantalla 2026-07-27 183055.png"/>
 
 <h2>Encontramos un status.php el cual no nos deja entrar ya que esta restringido</h2>
-<img width="956" height="776" src="Status/images/Captura de pantalla 2026-07-27 183117.png"/>
+<img width="956" height="776" src="../Status/images/Captura de pantalla 2026-07-27 183117.png"/>
 
