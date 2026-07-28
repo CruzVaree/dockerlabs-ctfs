@@ -14,7 +14,7 @@
 <img width="956" height="776" src="Status/images/Captura de pantalla 2026-07-27 182736.png"/>
 
 <h2>Realizamos un Fuzzing con Gobuster ya que no encontramos nada interesante en el index</h2>
-<img width="956" height="776" src="Status/images/Captura de pantalla 2026-07-27 183055.png"/>
+<img width="956" height="776" src="../Status/images/Captura de pantalla 2026-07-27 183055.png"/>
 
 <h2>Encontramos un status.php el cual no nos deja entrar ya que esta restringido</h2>
 <img width="956" height="776" src="../Status/images/Captura de pantalla 2026-07-27 183117.png"/>
