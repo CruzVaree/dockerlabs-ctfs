@@ -72,7 +72,8 @@ if($_SERVER['REQUEST_METHOD'] === 'GET'){
     $file = $_GET['72e22dffd7fa10883a85aa3e0bbbd6d4'];
     include($file);
 }
-?></h3>
+?>
+</h3>
 
 <h2>Vemos que en archivo file.php existe lo siguiente: 72e22dffd7fa10883a85aa3e0bbbd6d4 </h2>
 <h2>Uniendo todo lo anterior con los directorios encontrados en el zip y el parametro encontrado en el file.php crearemos una URL de esta forma</h2>
