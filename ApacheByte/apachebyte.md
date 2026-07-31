@@ -57,7 +57,7 @@ https://github.com/pentestmonkey/php-reverse-shell/blob/master/php-reverse-shell
 <h2>http://172.17.0.2/posts/uploads/rs.php</h2>
 
 <h2>Reverse shell obtenida</h2>
-<img width="1336" height="879" src="/ApacheByte/images/ApacheByte/images/Captura de pantalla 2026-07-30 184457.png" />
+<img width="1336" height="879" src="/ApacheByte/images/Captura de pantalla 2026-07-30 184457.png" />
 
 <h2>Hacemos el tratamiento de la TTY</h2>
 <h2>Entramos a la ruta /var y listamos contenido dentro del directorio ls -al para ganar acceso al usuario juan ya que se encuentra en su contexto el socket</h2>
