@@ -21,7 +21,7 @@
 <h2>Encontramos un uploads y dentro de ese directorio vemos un directorio de avatars</h2>
 <img width="1336" height="879" src="/ApacheByte/images/Captura de pantalla 2026-07-30 182219.png" />
 
-<h2>Regresaremos a la función del cambio de contraseña de nuestro usuario creador y capturaremos la peticion mediante burpsuite</h2>
+<h2>Regresaremos a la función del cambio de contraseña de nuestro usuario creado y capturaremos la peticion mediante burpsuite</h2>
 <h3>Request</h3>
 <img width="1336" height="879" src="/ApacheByte/images/Captura de pantalla 2026-07-30 182325.png" />
 <h2>En el sitio web se reconocio un usuario "manager" al cual intentaremos acceder, aprovechando la request de cambio de contraseña</h2>
