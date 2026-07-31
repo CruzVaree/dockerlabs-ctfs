@@ -27,7 +27,7 @@
 <h2>En el sitio web se reconocio un usuario "manager" al cual intentaremos acceder, aprovechando la request de cambio de contraseña</h2>
 <h2>cambiaremos nuestro usuario por el usuario manager. No funcionara ya que tenemos que saber el numero exacto del usuario manager</h2>
 <h2>Pero si recordamos en la parte de /uploads/avatars/ encontramos un numero en el jpg al cual pertenece al manager.</h2>
-<h2>Entonces sustituimos el nuestro usuario y nuestro numero por el de manager y ponemos cualquier contraseña</h2>
+<h2>Entonces sustituimos nuestro usuario y nuestro numero por el de manager y ponemos cualquier contraseña</h2>
 <img width="1336" height="879" src="/ApacheByte/images/Captura de pantalla 2026-07-30 182417.png" />
 <h2>SE A REALIZADO EL CAMBIO DE CONTRASEÑA</h2>
 <img width="1336" height="879" src="/ApacheByte/images/Captura de pantalla 2026-07-30 182428.png" />
