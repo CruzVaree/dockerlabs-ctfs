@@ -3,7 +3,6 @@
 <h2>Despleguemos el laboratorio</h2>
 <img width="956" height="776" src="../thedog/images/Captura de pantalla 2026-08-01 124810.png"/>
 
-<h2>FASE DE RECONOCIMIENTO</h2>
 <h3>Realizamos un escaneo de nmap para conocer puertos abiertos y servicios activos dentro del laboratorio</h3>
 <img width="956" height="776" src="../thedog/images/Captura de pantalla 2026-08-01 125148.png"/>
 
