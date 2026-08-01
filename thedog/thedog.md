@@ -56,7 +56,7 @@
 <h3>Credenciales encontradas.</h3>
 <img width="956" height="776" src="../thedog/images/Captura de pantalla 2026-08-01 140516.png"/>
 
-<h3>Haremmos lo mismo con el usuario "root"</h3>
+<h3>Haremos lo mismo con el usuario "root"</h3>
 <img width="956" height="776" src="../thedog/images/Captura de pantalla 2026-08-01 141128.png"/>
 
 <h3>Credenciales encontradas.</h3>
