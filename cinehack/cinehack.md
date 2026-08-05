@@ -67,7 +67,7 @@
 <h3>Script que cierra la sesion de boss: </h3>
 <img width="956" height="776" src="../cinehack/images/Captura de pantalla 2026-08-04 174245.png"/>
 
-<h3>Intentamos buscar a la ruta cd /var/spool/cron encontramos un direcotorio llamado crontabs a la cual no tenemos acceso mediante el usuario www-date</h3>
+<h3>Intentamos buscar a la ruta cd /var/spool/cron encontramos un direcotorio llamado crontabs a la cual no tenemos acceso mediante el usuario www-data</h3>
 <h3>Ejecutaremos la reverse shell como el usuario boss para ver el contenido de ese directorio</h3>
 <h3>Tendremos que ver lo que esta adentro del directorio rápido antes que nos cierren la sesión y cuando veamos lo que hay adentro cerramos la reverse shell 
 antes que la cierren para evitar que igual nos cierren con www-data</h3>
