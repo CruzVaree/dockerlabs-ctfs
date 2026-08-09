@@ -69,7 +69,7 @@
 <h3>Damos permisos de ejecución a la reverse shell</h3>
 <img width="956" height="776" src="../reverse/image/Captura de pantalla 2026-08-09 132101.png"/>
 
-<h3>Nos ponemos en escucha por Netcat: nc -nlvp <PORT></h3>
+<h3>Nos ponemos en escucha por Netcat: nc -nlvp [PORT]</h3>
 <h3>Ejecutamos la reverse shell</h3>
 <img width="956" height="776" src="../reverse/image/Captura de pantalla 2026-08-09 132204.png"/>
 
