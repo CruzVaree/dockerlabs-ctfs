@@ -45,6 +45,7 @@
 
 <h3>Nos aprovechamos del script que se ejecuta con permisos sudo y agregaremos lo siguiente: </h3>
 <h3>echo "os.system('chmod u+s /bin/bash')" >> backup.py</h3>
+<h3>Esperamos a que se ejecute y seremos root ls -al /bin/bash para revisar </h3>
 <img width="956" height="776" src="../WorkConnect/image/Captura de pantalla 2026-08-10 193357.png"/>
 
 <h3>ROOT OBTENIDO :)</h3>
