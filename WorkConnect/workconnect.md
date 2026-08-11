@@ -7,7 +7,7 @@
 <img width="956" height="776" src="../WorkConnect/image/Captura de pantalla 2026-08-10 185617.png"/>
 <li>Puerto 8000</li>
 
-<h3>Entramos al sitio web mediante el navegador poniendo la dirección ip</h3>
+<h3>Entramos al sitio web mediante el navegador poniendo la dirección ip y mediante el puerto 8000</h3>
 <img width="956" height="776" src="../WorkConnect/image/Captura de pantalla 2026-08-10 190827.png"/>
 
 <h3>Nos registramos e iniciamos sesión en el sitio</h3>
