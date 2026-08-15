@@ -13,7 +13,7 @@
 <h3>Seguiremos con el reconocimiento mediante la herramienta whatweb</h3>
 <img width="1336" height="879" src="/BigWear/image/Captura de pantalla 2026-08-11 181713.png"/>
 
-<h3>Vemos que mediante el puerto 80 corre un sitio web creador en wordpress</h3>
+<h3>Vemos que mediante el puerto 80 corre un sitio web creado en wordpress</h3>
 <h3>Entramos al sitio</h3>
 <img width="1336" height="879" src="/BigWear/image/Captura de pantalla 2026-08-14 182206.png"/>
 
