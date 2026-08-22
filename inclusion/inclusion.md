@@ -16,7 +16,7 @@
 <h3>Encontramos un directorito llamado /shop/ al cual nos dirigiremos</h3>
 <img width="1336" height="879" src="/inclusion/image/Captura de pantalla 2026-08-17 193341.png" />
 
-<h3>Vamos a realizar otor fuzzing de directorios</h3>
+<h3>Vamos a realizar otro fuzzing de directorios</h3>
 <img width="1336" height="879" src="/inclusion/image/Captura de pantalla 2026-08-17 193620.png" />
 
 <h3>Entramos al index.php y abajo aparece algo interesante que es:"Error de sistema: ($_GET('archivo')");</h3>
