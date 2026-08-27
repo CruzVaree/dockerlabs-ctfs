@@ -45,7 +45,7 @@
 <h3>Somos el usuario www-data haremos un pivoting de usuarios para eso obtendremos las credenciales/contraseñas de los usuarios</h3>
 <h3>Desde nuestra maquina atacante descargaremos este script: https://github.com/nohh022/bruteForce </h3>
 
-<h3>En la mquiana atacante vamos a codificar el rockyou.txt para pasarlo a la maguina victima</h3>
+<h3>En la maquina atacante vamos a codificar el rockyou.txt para pasarlo a la maguina victima</h3>
 <img width="956" height="776" src="../hidden/image/Captura de pantalla 2026-08-24 213250.png"/>
 
 <h3>En la maquina victima nos movemos al directorio /tmp y decodificamos el rockyou.txt</h3>
