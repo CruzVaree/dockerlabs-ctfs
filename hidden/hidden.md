@@ -77,7 +77,7 @@
 <h3>Analizamos permisos sudo -l y encontramos que el usuario: bobby tiene el binario: /usr/bin/apt</h3>
 <h3>Haremos otro pivoting hacia el usuario: bobby mediante lo siguiente</h3>
 <img width="956" height="776" src="../hidden/image/Captura de pantalla 2026-08-24 215831.png"/>
-<h3>Escribimos al final: !/bin/bash</h3>
+<h3>Escribimos al final: !/bin/sh</h3>
 
 <h3>Una vez siendo el usuario: bobby</h3>
 <h3>Analizamos permisos sudo -l y encontramos que root tiene el siguiente binario: /usr/bin/find</h3>
