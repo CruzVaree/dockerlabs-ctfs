@@ -85,7 +85,7 @@ significa que el programa intentó continuar la ejecución en esa dirección.</h
 
 <h3>Ejecutamos el script</h3>
 <img width="1166" height="858" alt="1" src="/Stack/image/Captura de pantalla 2026-08-30 130058.png" />
-<h3>Cuando ejecutamos el script obtendremos ciertos valores estos significa que se logro sobrescribir con éxito la variable key en memoria, pero aún no tienes el valor correcto para obtener el acceso de administrador.</h3>
+<h3>Cuando ejecutamos el script obtendremos ciertos valores estos significa que se logro sobrescribir con éxito la variable key en memoria, pero aún no tenemos el valor correcto para obtener el acceso de administrador.</h3>
 <h3>La key es una variable en la memoria del programa que funciona como un seguro o bandera de control de acceso. El programa la consulta para decidir qué nivel de permisos darte</h3>
 
 <h3>Ahora haremos lo siguiente</h3>
