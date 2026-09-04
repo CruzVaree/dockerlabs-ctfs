@@ -9,7 +9,7 @@
 <li>Puerto 80</li>
 <li>Puerto 139</li>
 <li>Puerto 445</li>
-<h3>Entramos al sitio web mediante la direccion ip y el navegador encontramos este login</h3>
+<h3>Entramos al sitio web mediante la dirección ip y encontramos este login</h3>
 <img width="956" height="776" src="../database/image/Captura de pantalla 2026-09-03 183956.png"/>
 
 <h3>Identifique que se puede bypassear ese login mediante una SQLi usando el siguiente payload, colocándolo en el usuario y contraseña: </h3>
