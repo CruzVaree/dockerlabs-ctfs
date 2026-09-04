@@ -60,7 +60,7 @@
 <img width="956" height="776" src="../database/image/Captura de pantalla 2026-09-03 192843.png"/>
 
 <h3>Efectivamente con esa contraseña se pudo ser el usuario dylan</h3>
-<h3>Analizamos los permisos SUID y encontramos el binario /usr/bin/env, el cual es vulnerable para ser el usuario root</h3>
+<h3>Analizamos los permisos SUID y encontramos el binario /usr/bin/env, el cual es vulnerable para alcanzar el root</h3>
 <img width="956" height="776" src="../database/image/Captura de pantalla 2026-09-03 193408.png"/>
 
 <h3>ROOT OBTENIDO :)</h3>
