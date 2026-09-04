@@ -21,7 +21,7 @@
 <img width="956" height="776" src="../database/image/Captura de pantalla 2026-09-03 184447.png"/>
 <img width="956" height="776" src="../database/image/Captura de pantalla 2026-09-03 184747.png"/>
 
-<h3>2. Vamos a encontrar las tables de la base de datos register</h3>
+<h3>2. Vamos a encontrar las tablas de la base de datos register</h3>
 <img width="956" height="776" src="../database/image/Captura de pantalla 2026-09-03 184821.png"/>
 <img width="956" height="776" src="../database/image/Captura de pantalla 2026-09-03 184831.png"/>
 
