@@ -24,6 +24,7 @@
 <img width="1336" height="879" src="/Bola/image/Captura de pantalla 2026-09-06 192404.png" />
 
 <h3>A lo que vemos los usuarios se enumeran mediante un id, por lo cual vamos a crear un script en python que haga esta enumeracion</h3>
+<h3>Usaremos el siguiente script: (https://github.com/CruzVaree/scripts_hacking/blob/main/enumerarApi.py)</h3>
 <img width="1336" height="879" src="/Bola/image/Captura de pantalla 2026-09-06 193501.png" />
 
 
