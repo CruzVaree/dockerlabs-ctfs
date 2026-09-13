@@ -47,7 +47,7 @@ curl: Failed to connect to 127.0.0.1 port 9999 after 0 ms: Couldn't connect to s
 <img width="956" height="776" src="../HackTheHeaven/image/Captura de pantalla 2026-09-11 182430.png"/>
 <h2>Encontramos un botón llamado DarkNet que nos redirige a una ruta</h2>
 <img width="956" height="776" src="../HackTheHeaven/image/Captura de pantalla 2026-09-11 182456.png"/>
-<h2>Nos manda a la estar ruta que indica algo "Error: No se ha especificado un archivo para incluir" esto significa que aquí se puede llegar a acontecer un LFI y a la vez la ruta termina en .php</h2>
+<h2>Nos manda a la esta ruta que indica algo "Error: No se ha especificado un archivo para incluir" esto significa que aquí se puede llegar a acontecer un LFI y a la vez la ruta termina en .php</h2>
 <img width="956" height="776" src="../HackTheHeaven/image/Captura de pantalla 2026-09-11 182549.png"/>
 
 
