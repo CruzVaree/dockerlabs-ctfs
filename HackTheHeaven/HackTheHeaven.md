@@ -126,6 +126,13 @@ curl: Failed to connect to 127.0.0.1 port 9999 after 0 ms: Couldn't connect to s
 nc -nlvp (PORT)</h2>
 
 <h2>Reverse shell obtenida</h2> 
+<h2>HACEMOS TRATAMIENTO DE LA TTY</h2>
+<h2><li>script /dev/null -c bash</li></h2>
+<h2><li>ctrl + z</li></h2>
+<h2><li>stty raw echo;fg</li></h2>
+<h2><li>reset xterm</li></h2>
+<h2><li>export SHELL=bash</li></h2>
+<h2><li>export TERM=xterm</li></h2>
 <h2>Una vez siendo el usuario s4vitar, analizamos permisos sudo y encontramos el binario /usr/bin/xargs que es vulnerable a una escalada de privilegios y escalaremos de la siguiente forma como se muestra en la imagen :)</h2>
 <img width="956" height="776" src="../HackTheHeaven/image/Captura de pantalla 2026-09-13 124248.png"/>
 
