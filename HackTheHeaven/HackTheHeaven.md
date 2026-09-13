@@ -39,8 +39,8 @@ curl: Failed to connect to 127.0.0.1 port 9999 after 0 ms: Couldn't connect to s
 <h2>Analizando la información se encontró lo siguiente: </h2>
 <img width="956" height="776" src="../HackTheHeaven/image/Captura de pantalla 2026-09-11 182216.png"/>
 <img width="956" height="776" src="../HackTheHeaven/image/Captura de pantalla 2026-09-11 182355.png"/>
-<h2><li>disable_functions: no value: Funciones peligrosas que permiten ejecutar comandos en el servidor (como system, exec, shell_exec o passthru)</li></h2>
-<h2><li>file_uploads: On: Permite la subido de archivos</li></h2>
+<h2><li>disable_functions: no value: Permite funciones peligrosas que permiten ejecutar comandos en el servidor (como system, exec, shell_exec o passthru)</li></h2>
+<h2><li>file_uploads: On: Permite la subida de archivos</li></h2>
 
 
 <h2>Analizamos la ruta idol.html</h2>
