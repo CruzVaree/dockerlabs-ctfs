@@ -89,7 +89,7 @@ curl: Failed to connect to 127.0.0.1 port 9999 after 0 ms: Couldn't connect to s
 <h2>HACEMOS TRATAMIENTO DE LA TTY</h2>
 <h2><li>script /dev/null -c bash</li></h2>
 <h2><li>ctrl + z</li></h2>
-<h2><li>stty raw echo;fg</li></h2>
+<h2><li>stty raw -echo;fg</li></h2>
 <h2><li>reset xterm</li></h2>
 <h2><li>export SHELL=bash</li></h2>
 <h2><li>export TERM=xterm</li></h2>
@@ -129,7 +129,7 @@ nc -nlvp (PORT)</h2>
 <h2>HACEMOS TRATAMIENTO DE LA TTY</h2>
 <h2><li>script /dev/null -c bash</li></h2>
 <h2><li>ctrl + z</li></h2>
-<h2><li>stty raw echo;fg</li></h2>
+<h2><li>stty raw -echo;fg</li></h2>
 <h2><li>reset xterm</li></h2>
 <h2><li>export SHELL=bash</li></h2>
 <h2><li>export TERM=xterm</li></h2>
