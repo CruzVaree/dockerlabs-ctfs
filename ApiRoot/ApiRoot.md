@@ -1,5 +1,4 @@
 <h1>Laboratorio ApiRoot</h1>
-<br><br>
 <h2>Vulnerabilidades encontradas: fuzzing de API endpoints y manipulación de datos.</h2>
 <h2>Dificultad: Media.</h2>
 
