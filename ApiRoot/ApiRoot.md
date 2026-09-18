@@ -53,7 +53,7 @@
 
 <h2>Lo pegamos a nuestra maquina atacante y borramos la x de la primera linea de tal forma que quede asi: </h2>
 <h2>root::0:0:root:/root:/bin/bash</h2>
-<img width="1336" height="879" src="/ApiRoot/image/Captura de pantalla 2026-09-17 173225.png"/>
+<img width="1336" height="879" src="/ApiRoot/image/Captura de pantalla 2026-09-17 173247.png"/>
 
 <h2>Ahora desde nuestra maquina atacante levantamos un servidor en python: python3 -m http.server 80</h2>
 <h2>Posteriormente desde la maquina victima con curl obtendremos ese archivo passwd modificado</h2>
