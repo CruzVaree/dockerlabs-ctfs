@@ -51,7 +51,7 @@
 <h2>Visualizamos el directorio /etc/passwd y lo copiamos</h2>
 <img width="1336" height="879" src="/ApiRoot/image/Captura de pantalla 2026-09-17 173225.png"/>
 
-<h2>Lo copiamos a nuestra maquina atacante y borramos la x de la primera linea de tal forma que quede asi: </h2>
+<h2>Lo pegamos a nuestra maquina atacante y borramos la x de la primera linea de tal forma que quede asi: </h2>
 <h2>root::0:0:root:/root:/bin/bash</h2>
 <img width="1336" height="879" src="/ApiRoot/image/Captura de pantalla 2026-09-17 173225.png"/>
 
