@@ -40,7 +40,7 @@
 
 <h2>Mediante curl lanzaremos un comando "id"</h2>
 <img width="1336" height="879" src="/Veneno/image/Captura de pantalla 2026-09-19 163509.png" />
-<h2>Actualizamos/recargamos el sitio donde se ven el access.log</h2>
+<h2>Actualizamos/recargamos el sitio donde se ve el access.log</h2>
 <h2>El comando se ejecuto.</h2>
 <img width="1336" height="879" src="/Veneno/image/Captura de pantalla 2026-09-19 163620.png" />
 
@@ -49,7 +49,7 @@
 <h2>2-Levantamos un servidor en python para subirla en el directorio /uploads: python3 -m http.server 80</h2>
 <h2>3-Ahora hacemos un curl con la siguiente peticion</h2>
 <img width="1336" height="879" src="/Veneno/image/Captura de pantalla 2026-09-19 165546.png" />
-<h2>4-Actualizamos/recargamos el sitio donde se ven el access.log</h2>
+<h2>4-Actualizamos/recargamos el sitio donde se ve el access.log</h2>
 <h2>Checamos que se allá subido a el directorio /uploads anteriormente encontrado en el fuzzing</h2>
 <img width="1336" height="879" src="/Veneno/image/Captura de pantalla 2026-09-19 165645.png" />
 
