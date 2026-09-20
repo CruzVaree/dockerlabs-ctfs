@@ -39,9 +39,8 @@
 <img width="1336" height="879" src="/Veneno/image/Captura de pantalla 2026-09-19 131317.png" />
 
 <h2>Mediante curl lanzaremos un comando "id"</h2>
-<h2>Actualizamos/recargamos el sitio donde se ven el access.log</h2>
 <img width="1336" height="879" src="/Veneno/image/Captura de pantalla 2026-09-19 163509.png" />
-
+<h2>Actualizamos/recargamos el sitio donde se ven el access.log</h2>
 <h2>El comando se ejecuto.</h2>
 <img width="1336" height="879" src="/Veneno/image/Captura de pantalla 2026-09-19 163620.png" />
 
