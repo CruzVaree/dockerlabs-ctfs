@@ -1,5 +1,4 @@
 <h1>Laboratorio PingPong</h1>
-<br>
 <h2>Vulnerabilidades
 <li>Ejecucion de comandos dentro de un servicio web.</li>
 </h2>
