@@ -77,4 +77,4 @@
 <h2>ROOT OBTENIDO :)</h2>
 <br>
 <h1>Creditos a: vareCruzz</h1>
-<h1>Mi novia me hizo un privilege escalation: empezó como novia y terminó siendo dueña de mi.</h1>
+<h1>Mi novia me hizo un privilege escalation: empezó como novia y terminó siendo dueña de mi(MI NOVIA LIZETTE).</h1>
