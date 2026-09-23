@@ -3,8 +3,7 @@
 <h1>Vulnerabilidades: 
 <li>Subida de archivos maliciosos para generar una reverse shell</li>
 </h1>
-<br><br>
-
+<br>
 <h2>Despleguamos el laboratorio "HackZones"</h2>
 <img width="956" height="776" src="../HackZones/image/Captura de pantalla 2026-09-22 183406.png"/>
 
