@@ -31,7 +31,7 @@
 <h2>Vamos a confirmar que podamos ejecutar archivos, asi que vamos a mandar un phpinfo y ver si el sitio web lo interpreta</h2>
 <img width="956" height="776" src="../Lfielf/image/Captura de pantalla 2026-09-23 193123.png"/>
 <h2>Copiamos a partir del: php://filter hasta el final</h2>
-<h2>http://172.17.0.2/index.php?search="AQUI PEGAMOS LO GENERADO POR LA HERRAMIENTA PHP FILTER CHAIN"</h2>
+<h2>http://172.17.0.2/index.php?search=AQUI PEGAMOS LO GENERADO POR LA HERRAMIENTA PHP FILTER CHAIN</h2>
 
 <h2>Pegamos esto dentro del navegador y como vemos se interpreto</h2>
 <img width="956" height="776" src="../Lfielf/image/Captura de pantalla 2026-09-23 193239.png"/>
