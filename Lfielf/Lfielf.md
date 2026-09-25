@@ -77,7 +77,7 @@ nc -nlvp (PORT)</h2>
 <h2>Vemos el contenido del script</h2>
 <img width="956" height="776" src="../Lfielf/image/Captura de pantalla 2026-09-23 201046.png"/>
 
-<h2>A lo que vemos resumidamente el script ejecuta un script y unas funciones dentro del codigo de acuerdo a la opción que elijamos, ejecuta un script llamado: subtheads.py</h2>
+<h2>A lo que vemos resumidamente el script ejecuta un script llamado: subtheads.py y unas funciones dentro del codigo de acuerdo a la opción que elijamos</h2>
 
 <h2>Buscamos el script "subtheads.py" y analizamos su codigo</h2>
 <img width="956" height="776" src="../Lfielf/image/Captura de pantalla 2026-09-23 201625.png"/>
