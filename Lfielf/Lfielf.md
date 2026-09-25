@@ -1,6 +1,6 @@
 <h1>Laboratorio Lfi.elf</h1>
 <h1>Dificultad: Dificil</h1>
-<h1>Vulnerabilidades: LFI: Local File Inclusion.
+<h1>Vulnerabilidades: LFI (Local File Inclusion).
 </h1>
 <br>
 <h2>Despleguamos el laboratorio "Lfi.elf"</h2>
