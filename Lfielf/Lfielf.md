@@ -46,7 +46,7 @@
 <h2>3-Ya que tenemos la reverse shell y el servidor de python, vamos a generar una petición que haga un curl para obtener y ejecutar esa reverse shell</h2>
 <img width="956" height="776" src="../Lfielf/image/Captura de pantalla 2026-09-23 195833.png"/>
 
-<h2>4-Nos ponemos en escucha por netcat de acuerdo al puerto declarado en la reverse shell: 
+<h2>4-Nos ponemos en escucha por netcat de acuerdo al puerto declarado en la reverse shell: <br>
 nc -nlvp (PORT)</h2>
 <h2>5-Pegamos lo generado en el navegador</h2>
 <img width="956" height="776" src="../Lfielf/image/Captura de pantalla 2026-09-23 200529.png"/>
