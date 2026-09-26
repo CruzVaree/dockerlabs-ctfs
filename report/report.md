@@ -1,7 +1,7 @@
 <h1>Laboratorio Report</h1>
 <h1>Dificultad: Medio</h1>
 <h1>Vulnerabilidades:<br> 
-Explotación de un LFI/Path Traversal hacia RCE
+Explotación de un LFI/Path Traversal hacia RCE <br>
 Bypass de subida de ficheros mediante el Content-Type <br>
 Inyección SQL</h1>
 <br><br>
