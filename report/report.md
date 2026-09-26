@@ -59,7 +59,8 @@ Asi que usaremos el siguiente script para realizar esto: https://github.com/Cruz
 <h2>4-Cambiamos la linea 237 de la siguiente forma: host = socket.gethostbyname(sys.argv[1]) por: host = sys.argv[1]</h2>
 <img width="956" height="776" src="/report/image/Captura de pantalla 2026-09-26 133722.png"/>
 
-<h2>Nos ponemos en escucha por netcat de acuerdo al puerto puesto en el script: nc -nlvp (PUERTO)</h2>
+<h2>Nos ponemos en escucha por netcat de acuerdo al puerto puesto en el script:<br>
+nc -nlvp (PUERTO)</h2>
 <h2>Ejecutamos</h2>
 <img width="956" height="776" src="/report/image/Captura de pantalla 2026-09-26 133828.png"/>
 
