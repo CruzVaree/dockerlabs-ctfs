@@ -89,7 +89,7 @@ git config --global --add safe.directory /var/www/html/desarrollo/.git</h2>
 <img width="956" height="776" src="/report/image/Captura de pantalla 2026-09-26 135904.png"/>
 
 <h2>Ahora si nos dejara ver los log de .git</h2>
-<h2>Analizando los commint: me interesa mas el del usuario adm</h2>
+<h2>Analizando los commit: me interesa mas el del usuario adm</h2>
 <img width="956" height="776" src="/report/image/Captura de pantalla 2026-09-26 135955.png"/>
 
 <h2>Investigamos ese commit</h2>
