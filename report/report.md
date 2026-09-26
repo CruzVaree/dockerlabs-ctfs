@@ -114,7 +114,7 @@ git config --global --add safe.directory /var/www/html/desarrollo/.git</h2>
 <h2>ROOT OBTENIDO :)</h2>
 
 <h1>Créditos a: vareCruzz</h1>
-<h1>Mi corazón está cifrado, pero contigo la contraseña siempre funciona.<br>
+<h1>
 Para mi novia: <br>
 Mi corazón está cifrado, pero contigo la contraseña siempre funciona.
 </h1>
