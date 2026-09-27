@@ -59,6 +59,8 @@ https://github.com/synacktiv/php_filter_chain_generator/blob/main/php_filter_cha
 <h2>ROOT OBTENIDO :)</h2>
 
 <h1>Creditos a: vareCruzz</h1>
-<h1>Mi novia Lizette esta en mi corazón, en mi mente y en todo momento <3. La amo muchisimo, me motiva a mejorar en todo <3</h1>
+<h1>
+Para mi novia: <br>
+Eres como un LFI en mi corazón: encontraste la ruta que nadie más pudo, y ahora estás incluida en cada página de mi vida.”</h1>
 
 
