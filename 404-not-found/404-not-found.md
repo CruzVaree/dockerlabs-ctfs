@@ -38,7 +38,7 @@ Inyeccion LDAP
 <h2>Realizamos un fuzzing de subdominios</h2>
 <img width="956" height="776" src="/404-not-found/image/Captura de pantalla 2026-09-27 153109.png"/>
 
-<h2>Encontramos el subdominio "info" posteriormente que lo añadimos al fichero /etc/hosts</h2>
+<h2>Encontramos el subdominio "info" posteriormente lo añadimos al fichero /etc/hosts</h2>
 <img width="956" height="776" src="/404-not-found/image/Captura de pantalla 2026-09-27 153146.png"/>
 
 <h2>Encontramos un panel de login, el cual es vulnerable a una inyeccion LDAP</h2>
