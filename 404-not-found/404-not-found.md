@@ -55,10 +55,10 @@ Inyeccion LDAP
 <h2>Analizando el contenido de la ruta /home/404-page y analizando el .bash_history, encontramos una calculadora hecha en python</h2>
 <img width="956" height="776" src="/404-not-found/image/Captura de pantalla 2026-09-27 153742.png"/>
 
-<h2>Probamos si el script calculator.py puede interpretar comandos (Se lanzo un !/bin/bash) y ejecutarlos en vez de tratarlos solo como datos matematicos</h2>
+<h2>Probamos si el script calculator.py puede interpretar comandos y ejecutarlos en vez de tratarlos solo como datos matematicos</h2>
 <img width="956" height="776" src="/404-not-found/image/Captura de pantalla 2026-09-27 154201.png"/>
 
-<h2>Ahora somos el usuario 202-ok ya que el script interpreta comandos y lo ejecutamos como ese respectivo usuario</h2>
+<h2>Ahora somos el usuario 202-ok ya que el script interpreta comandos (Se lanzo un !/bin/bash) y lo ejecutamos como ese respectivo usuario</h2>
 <h2>Analizando el directorio /home/202-ok encontramos los siguientes archivos txt</h2>
 <img width="956" height="776" src="/404-not-found/image/Captura de pantalla 2026-09-27 154411.png"/>
 
