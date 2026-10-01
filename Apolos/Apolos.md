@@ -56,7 +56,8 @@
 <img width="1336" height="879" src="/Apolos/image/Captura de pantalla 2026-09-29 202258.png"/>
 
 
-<h2>Nos ponemos en escucha por netcat de acuerdo al puerto puesto en la reverse shell: nc -nlvp (PUERTO)</h2>
+<h2>Nos ponemos en escucha por netcat de acuerdo al puerto puesto en la reverse shell:<br>
+nc -nlvp (PUERTO)</h2>
 <h2>Ejecutamos</h2>
 <h2>Reverse shell completada</h2>
 <img width="1336" height="879" src="/Apolos/image/Captura de pantalla 2026-09-29 202311.png"/>
