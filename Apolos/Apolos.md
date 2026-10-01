@@ -37,7 +37,7 @@
 <img width="1336" height="879" src="/Apolos/image/Captura de pantalla 2026-09-29 201541.png"/>
 
 <h2>El hash que nos interesa es el del usuario admin asi que mediante la herramienta de "john" vamos a descubrir la contraseña</h2>
-<h2>Guardamos el hash usando el edito nano</h2>
+<h2>Guardamos el hash usando el editor nano</h2>
 <img width="1336" height="879" src="/Apolos/image/Captura de pantalla 2026-09-29 202028.png"/>
 
 <h2>Se a descifrado la contraseña de admin, así que vamos a iniciar sesión con ese usuario</h2>
