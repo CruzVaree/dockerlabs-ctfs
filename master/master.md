@@ -38,7 +38,7 @@ CVE-2024-27956</h2>
 
 <h2>Nos vamos a la siguiente seccion</h2>
 <h2>Appearance > theme file editor > functions.php</h2>
-<img width="956" height="776" src="../master/image/Captura de pantalla 2026-10-10 173736.png"/>
+<img src="../master/image/Captura de pantalla 2026-10-10 173736.png"/>
 <h2>Aqui pegamos dentro de functions.php una reverse shell hecha en php</h2>
 <img width="956" height="776" src="../master/image/Captura de pantalla 2026-10-10 173844.png"/>
 
