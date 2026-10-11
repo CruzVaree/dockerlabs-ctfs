@@ -60,7 +60,7 @@ CVE-2024-27956</h2>
 <img width="956" height="776" src="../master/image/Captura de pantalla 2026-10-10 174312.png"/>
 
 <h2>Somos el usuario pylon</h2>
-<h2>Volvemos a analizar permisos sudo -l y encontramos que el usuario mario tiene puede ejecutar el binario <br> 
+<h2>Volvemos a analizar permisos sudo -l y encontramos que el usuario mario puede ejecutar el binario <br> 
 /bin/bash en el script /home/mario/pingusorpresa.sh, ejecutamos el script y añadimos lo siguiente: <br> 
 a[$(/bin/bash 2>&)]+40 <br>
 dentro del script añadimos eso ya que aprovechamos un operador usado en el codigo "eq"
