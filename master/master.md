@@ -43,7 +43,7 @@ CVE-2024-27956</h2>
 <img width="956" height="776" src="../master/image/Captura de pantalla 2026-10-10 173844.png"/>
 
 <h2>Posteriormente nos ponemos en escucha por netcat: nc -nlvp (PORT)</h2>
-<h2>Ejecutamos la reverse shell "Upload file"</h2>
+<h2>Ejecutamos la reverse shell dando click en "Upload file"</h2>
 <h2>Reverse shell ganada</h2>
 <img width="956" height="776" src="../master/image/Captura de pantalla 2026-10-10 173903.png"/>
 
