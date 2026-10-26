@@ -32,7 +32,7 @@
 <h1>Mandamos la petición con la cabecera de Origin modificada nos darán unas credenciales</h1>
 <img width="1336" height="879" src="/Crossfi/image/Captura de pantalla 2026-10-24 194752.png"/>
 
-<h1>Como se nos indica en el siguiente laboratorio existe un panel que no tiene un tokens protegidos contra CSRF</h1>
+<h1>Como se nos indica en el siguiente laboratorio existe un campo que no tiene un tokens protegidos contra CSRF</h1>
 <img width="1336" height="879" src="/Crossfi/image/Captura de pantalla 2026-10-24 194849.png"/>
 
 <h1>Así que con burpsuite analizamos cuales son y se encuentra que el campo "Biografía" es vulnerable</h1>
